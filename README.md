@@ -18,14 +18,7 @@ Flex Trainer is a **C# Windows Forms** application with an **SQL Server** backen
 2. Configure the **SQL Server database** and update connection strings if necessary.  
 3. Build and run the application.  
 
-## 📷 Screenshots  
-*(Add relevant screenshots here to showcase the UI and functionality.)*  
-
-## 🤝 Contributing  
-Feel free to submit issues or pull requests to enhance the project!  
-
----
-
 ### 🔗 License  
 This project is for educational purposes. Modify and improve as needed!  
+If anyone wants more information about the project, email us at i220863@nu.edu.pk or i220877@nu.edu.pk
 
